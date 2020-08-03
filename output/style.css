@@ -1,0 +1,17 @@
+.jumbotron {
+    background-color: red;
+    color: white;
+    font-family: sans-serif;
+}
+body {
+    background-color: lightgray;
+}
+.card-header {
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.card-body {
+    background-color: rgb(168, 165, 165);
+    color: blue;
+}
